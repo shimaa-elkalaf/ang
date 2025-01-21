@@ -1,0 +1,19 @@
+.one{
+background: #2C3E50 ;
+color: white ;
+height: 200px;
+padding-top: 40px;
+text-align: center !important; 
+margin-bottom: 50px;
+}
+
+
+.two{
+    text-align: center;
+    color: white;
+    background: #1A252F;
+    padding: 20px; 
+  
+    height: 100px;
+   
+}
